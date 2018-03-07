@@ -1,0 +1,14 @@
+* {
+    text-align: center;
+}
+.low, .high {
+    background-color: red;
+}
+.yes {
+    background-color: green;
+}
+div {
+    display: inline-block;
+    width: 200px;
+    color: white;
+}
